@@ -12,7 +12,7 @@ namespace HRMS.Repository
     public class EmpRepository
     {
         private SqlConnection con;
-        //To Handle connection related activities test by arvind
+        //To Handle connection related activities
         private void connection()
         {
             string constr = ConfigurationManager.ConnectionStrings["getconn"].ToString();
