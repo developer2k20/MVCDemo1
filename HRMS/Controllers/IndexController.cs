@@ -11,7 +11,7 @@ namespace HRMS.Controllers
     public class IndexController : Controller
     {
         //
-        // GET: /Index to Check/
+        // GET: /Index to Check/by shiv
 
         public ActionResult Index()
         {
